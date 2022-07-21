@@ -1,6 +1,6 @@
 ## 🔐 Landing page: Empresa de segunrança de dados 🔓
 > Trainando HTML e CSS
-* Usando variaveis css
+* variaveis css
 * Usando o :root para resetar o fontsize e poder usar um padrão rem!
 
 
